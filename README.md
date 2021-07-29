@@ -1,6 +1,6 @@
 # TumblrDarkTheme
 
-This is a simple list of CSS that you can add using Stylebot or probably even Stylus (Untested Extension)
+This is a simple list of CSS that you can add using Stylebot for Firefox or Chrome or probably even Stylus (Untested Extension)
 
 Directions:
 
