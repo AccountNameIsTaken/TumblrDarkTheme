@@ -1,0 +1,111 @@
+div._3hOxd {
+  background-color: #000000;
+}
+
+header._2Lnx8 {
+  background-color: #000000;
+}
+
+div._29lp8 {
+  background-color: #000000;
+}
+
+div._2DwJv {
+  background-color: #000000;
+}
+
+main div div {
+  background-color: transparent;
+  color: grey;
+}
+
+header.VvBX3 {
+  color: #000000;
+  background-color: #000000;
+  border-style: none;
+}
+
+article._2DpMA {
+  background-color: #000000;
+}
+
+
+div._3wPrb {
+  color: grey;
+}
+
+li._3MF9s {
+  color: grey;
+}
+
+footer.Js4q5 {
+  font-weight: 100;
+  font-style: normal;
+  border-style: none;
+}
+
+span._1B-io {
+  color: grey;
+}
+
+blockquote._3MF9s._1LBEv {
+  color: #999999;
+}
+
+div div p {
+  color: #999999;
+  font-size: 18px;
+}
+
+svg {
+  fill:grey;
+}
+
+span._1Qt2k {
+  color: grey;
+}
+
+div._28g6n {
+  color: grey;
+}
+
+div._3u2Ih {
+  background-color: #000000;
+  color: grey;
+  border-style: outset;
+}
+
+span._2vAlC {
+  background-color: black;
+  opacity: 88%;
+ 
+}
+
+div._2NDDY {
+  background-color: #000000;
+}
+
+textarea._2vuQo {
+  background-color: black;
+}
+
+::placeholder {
+  color: lightgrey
+}
+
+a._1SERh {
+  color: grey;
+}
+
+div._3FhHX {
+  background-color: #000000;
+}
+
+span._3dTPo._1M85H {
+  color: #cccccc;
+  background-color: #073763;
+}
+
+a._14q4R {
+  color: #a4c2f4;
+}
