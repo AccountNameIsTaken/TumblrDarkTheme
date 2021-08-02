@@ -29,19 +29,12 @@ article._2DpMA {
   background-color: #000000;
 }
 
-
 div._3wPrb {
   color: grey;
 }
 
 li._3MF9s {
   color: grey;
-}
-
-footer.Js4q5 {
-  font-weight: 100;
-  font-style: normal;
-  border-style: none;
 }
 
 span._1B-io {
@@ -55,10 +48,6 @@ blockquote._3MF9s._1LBEv {
 div div p {
   color: #999999;
   font-size: 18px;
-}
-
-svg {
-  fill:grey;
 }
 
 span._1Qt2k {
@@ -78,7 +67,6 @@ div._3u2Ih {
 span._2vAlC {
   background-color: black;
   opacity: 88%;
- 
 }
 
 div._2NDDY {
@@ -87,6 +75,7 @@ div._2NDDY {
 
 textarea._2vuQo {
   background-color: black;
+  color: #f3f3f3;
 }
 
 ::placeholder {
@@ -109,3 +98,8 @@ span._3dTPo._1M85H {
 a._14q4R {
   color: #a4c2f4;
 }
+
+footer svg{
+  fill: grey;
+}
+
