@@ -103,3 +103,7 @@ footer svg{
   fill: grey;
 }
 
+div._3UKjj {
+  color: #000000;
+  background-color: #434343;
+}
